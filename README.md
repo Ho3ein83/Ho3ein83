@@ -1,4 +1,5 @@
 <h2 align="center">Hi 👋!<br>I am Hossein, a passionate fullstack developer from Iran</h2>
+<p align="center">Let's build something amazing together...</p>
 
 ###
 
@@ -45,18 +46,27 @@
   <a href="https://ko-fi.com/R6R8OTAAP" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
   </a>
+  <a href="https://amatris.ir/?lang=en_US" target="_blank">
+    <img src="https://cdn.amatris.ir/images/amd_logo/amatris_button.svg" height="35" alt="My website"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ho3ein83&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ho3ein83/ho3ein83/output/snake.svg" alt="Snake animation" />
-
-###
+<h2 align="center">My other projects</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ho3ein83&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://amatris.ir/amd/?lang=en_US" target="_blank">
+    <img src="https://cdn.amatris.ir/images/amd_logo/amd_button.svg" height="35" alt="Material Dashboard"  />
+  </a>
 </div>
 
 ###
