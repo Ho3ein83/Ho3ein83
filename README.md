@@ -43,9 +43,6 @@
   <a href="https://t.me/+989174140701" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <a href="https://ko-fi.com/R6R8OTAAP" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
-  </a>
   <a href="https://amatris.ir/?lang=en_US" target="_blank">
     <img src="https://cdn.amatris.ir/images/amd_logo/amatris_button.svg" height="35" alt="My website"  />
   </a>
