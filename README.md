@@ -1,9 +1,7 @@
 <h2 align="center">Hi 👋!<br>I am Hossein, a passionate developer from Iran</h2>
 <p align="center">Let's build something amazing together...</p>
 
-###
-
-<img align="right" height="150" src="https://helica.ir/images/hossein-bazrafkan-1.jpg"  />
+<img align="right" height="50" src="https://amatris.ir/logo-light.png"  />
 
 ###
 
