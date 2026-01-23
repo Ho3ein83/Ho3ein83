@@ -31,8 +31,8 @@ A 21-year-old student, born in 2004 with a lot of passion for computer science a
 - Redis
 
 ## My top projects
-- Amatris Material Dashboard (WordPress plugin)
-- SnowflakeDB (in-memory database)
+- [Material Dashboard](https://github.com/Ho3ein83/material-dashboard) (WordPress plugin)
+- [SnowflakeDB](https://github.com/Ho3ein83/snowflake-db) (in-memory database)
 
 ## IDEs & code editors
 - IntelliJ IDEs (PHPStorm, PyCharm and Android studio)
