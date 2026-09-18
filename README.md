@@ -18,6 +18,9 @@ A 21-year-old student, born in 2004 with a lot of passion for computer science a
     - Zustand
     - MUI
   - jQuery
+  - Next JS
+    - Routing
+    - SSR (Server-side rendering)
 - PHP
   - WordPress (plugin and theme development)
 
@@ -27,12 +30,14 @@ A 21-year-old student, born in 2004 with a lot of passion for computer science a
  - Figma
 
 ## My top database skills
-- SQL
+- SQL (MySQL and PostgreSQL)
 - Redis
 
-## My top projects
+## My best projects
 - [Material Dashboard](https://github.com/Ho3ein83/material-dashboard) (WordPress plugin)
 - [SnowflakeDB](https://github.com/Ho3ein83/snowflake-db) (in-memory database)
+- [ST7789 Display Driver](https://github.com/Ho3ein83/ESP32-ST7789-driver) (for ESP32)
+- [Node.js Web Scraper](https://github.com/Ho3ein83/web-scraper)
 
 ## IDEs & code editors
 - IntelliJ IDEs (PHPStorm, PyCharm and Android studio)
@@ -42,5 +47,5 @@ A 21-year-old student, born in 2004 with a lot of passion for computer science a
 - Linux
 - Networking
 - Electronics, microcontrollers and SBCs
-- Intermediate Python (networking, scripting, GUI applications, etc.)
+- Python Scripting (networking, scripting, GUI applications, etc.)
 - [See my full resume](https://amatris.com/Resume.pdf)
